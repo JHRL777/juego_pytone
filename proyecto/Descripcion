@@ -1,0 +1,15 @@
+Título del Juego: Invación espacial extraterrestre
+
+Descripción:
+
+El jugador controla una nave espacial que puede moverse horizontalmente usando las teclas "A" y "D". El objetivo del juego es evitar que los ovnis enemigos lleguen al fondo de la pantalla mientras se eliminan para obtener puntos.
+
+El jugador puede disparar balas hacia arriba utilizando la tecla de espacio para destruir a los enemigos. Cada vez que una bala golpea a un ovni, se reproduce un sonido de colisión y se incrementa el puntaje del jugador.
+
+Si un ovni llega al fondo de la pantalla, el juego termina y se muestra un mensaje de "Juego terminado" en la pantalla.
+
+Controles:
+
+Utiliza las teclas "A" y "D" para mover la nave espacial horizontalmente.
+Presiona la tecla de espacio para disparar balas hacia arriba y destruir a los ovnis enemigos.
+¡Diviértete jugando a Invación espacial extraterrestre!
